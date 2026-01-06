@@ -1,0 +1,10 @@
+selected_feature,num_correlated_variables,strongly_correlated_features,spearman_rhos_with_selected,directions,selected_sign_in_model,selected_abs_coef
+attribute_522,3,attribute_115; attribute_250; attribute_388,0.914; 0.914; 0.914,+; +; +,+,0.00033416734860765854
+attribute_511,3,attribute_104; attribute_239; attribute_377,0.620; 0.694; 0.651,+; +; +,+,0.0008252338387907721
+attribute_56,3,attribute_44; attribute_61; attribute_332,0.624; 0.615; -0.602,+; +; -,+,0.00021857454410956513
+attribute_141,2,attribute_276; attribute_414,0.992; 0.921,+; +,-,0.0001705812767741681
+attribute_161,2,attribute_296; attribute_432,0.993; 0.991,+; +,+,0.00023397154578829737
+attribute_162,2,attribute_297; attribute_433,0.997; 0.767,+; +,-,3.892490970605576e-05
+attribute_205,2,attribute_341; attribute_477,0.978; 0.935,+; +,-,0.0001833828862943091
+attribute_4,1,attribute_7,-0.609,-,-,0.00014499370891388178
+attribute_91,1,attribute_116,0.703,+,-,0.00043687267210104836
